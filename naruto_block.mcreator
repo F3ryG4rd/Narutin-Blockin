@@ -1,0 +1,153 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "MiniChakra",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mini_chakra"
+    },
+    {
+      "name": "NarutoBlockItems",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naruto_block_items"
+    },
+    {
+      "name": "Chakra",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chakra"
+    },
+    {
+      "name": "CraftChakra",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_chakra"
+    },
+    {
+      "name": "ChakraHyuuga",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chakra_hyuuga"
+    },
+    {
+      "name": "CraftByakugan",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_byakugan"
+    },
+    {
+      "name": "Byakugan",
+      "type": "armor",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "byakugan",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "NarutoBlockArmors",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "naruto_block_armors"
+    },
+    {
+      "name": "Ninja",
+      "type": "mob",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ninja"
+    },
+    {
+      "name": "Hyuuga",
+      "type": "mob",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hyuuga"
+    },
+    {
+      "name": "Kunai",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kunai"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "aa",
+      "file": "byakugan",
+      "category": "master"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.naruto_block.ninja": "Zetsu Spawn Egg",
+      "item.naruto_block.chakra_hyuuga": "Chakra Hyuuga",
+      "item.naruto_block.chakra": "Chakra",
+      "item.naruto_block.kunai": "Kunai",
+      "item.naruto_block.hyuuga": "Hyuuga Spawn Egg",
+      "entity.naruto_block.hyuuga": "Hyuuga",
+      "item.naruto_block.byakugan_chestplate": "Byakugan Body",
+      "itemGroup.tabnaruto_block_items": "Naruto Block Items",
+      "item.naruto_block.byakugan_leggings": "Byakugan Leggings",
+      "item.naruto_block.mini_chakra": "Mini Chakra",
+      "item.naruto_block.byakugan_helmet": "Byakugan!",
+      "item.naruto_block.byakugan_boots": "Byakugan Boots",
+      "entity.naruto_block.ninja": "Zetsu",
+      "itemGroup.tabnaruto_block_armors": "Naruto Block Armors"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "naruto_block",
+    "modName": "Naruto Block",
+    "version": "1.0.0",
+    "author": "User, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.narutoblock",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

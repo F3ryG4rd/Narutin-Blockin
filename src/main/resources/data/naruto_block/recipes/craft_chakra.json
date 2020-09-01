@@ -1,0 +1,42 @@
+{
+  "group": "naruto_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "naruto_block:mini_chakra"
+    },
+    "1": {
+      "item": "naruto_block:mini_chakra"
+    },
+    "2": {
+      "item": "naruto_block:mini_chakra"
+    },
+    "3": {
+      "item": "naruto_block:mini_chakra"
+    },
+    "4": {
+      "item": "naruto_block:mini_chakra"
+    },
+    "5": {
+      "item": "naruto_block:mini_chakra"
+    },
+    "6": {
+      "item": "naruto_block:mini_chakra"
+    },
+    "7": {
+      "item": "naruto_block:mini_chakra"
+    },
+    "8": {
+      "item": "naruto_block:mini_chakra"
+    }
+  },
+  "result": {
+    "item": "naruto_block:chakra",
+    "count": 1
+  }
+}

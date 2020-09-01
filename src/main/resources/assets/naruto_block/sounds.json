@@ -1,0 +1,11 @@
+{
+  "aa": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "naruto_block:byakugan",
+        "stream": false
+      }
+    ]
+  }
+}

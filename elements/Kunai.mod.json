@@ -1,0 +1,28 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "kunai",
+    "customModelName": "Normal",
+    "name": "Kunai",
+    "specialInfo": [
+      "Arma de combate especial para ninjas"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 0.4,
+    "enchantability": 5,
+    "damageVsEntity": 5.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

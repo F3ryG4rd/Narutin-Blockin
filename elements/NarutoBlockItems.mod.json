@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "Naruto Block Items",
+    "icon": {
+      "value": "CUSTOM:MiniChakra"
+    },
+    "showSearch": true
+  }
+}
