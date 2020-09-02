@@ -23,7 +23,7 @@ public class KunaiItem extends NarutoBlockModElements.ModElement {
 	@ObjectHolder("naruto_block:kunai")
 	public static final Item block = null;
 	public KunaiItem(NarutoBlockModElements instance) {
-		super(instance, 12);
+		super(instance, 10);
 	}
 
 	@Override

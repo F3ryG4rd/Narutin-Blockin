@@ -21,7 +21,7 @@ public class ChakraItem extends NarutoBlockModElements.ModElement {
 	@ObjectHolder("naruto_block:chakra")
 	public static final Item block = null;
 	public ChakraItem(NarutoBlockModElements instance) {
-		super(instance, 3);
+		super(instance, 2);
 	}
 
 	@Override

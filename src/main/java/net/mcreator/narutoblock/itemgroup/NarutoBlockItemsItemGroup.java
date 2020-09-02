@@ -13,7 +13,7 @@ import net.mcreator.narutoblock.NarutoBlockModElements;
 @NarutoBlockModElements.ModElement.Tag
 public class NarutoBlockItemsItemGroup extends NarutoBlockModElements.ModElement {
 	public NarutoBlockItemsItemGroup(NarutoBlockModElements instance) {
-		super(instance, 2);
+		super(instance, 11);
 	}
 
 	@Override

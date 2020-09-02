@@ -46,7 +46,7 @@ import net.mcreator.narutoblock.NarutoBlockModElements;
 public class NinjaEntity extends NarutoBlockModElements.ModElement {
 	public static EntityType entity = null;
 	public NinjaEntity(NarutoBlockModElements instance) {
-		super(instance, 10);
+		super(instance, 8);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 
@@ -56,7 +56,7 @@ public class NinjaEntity extends NarutoBlockModElements.ModElement {
 				.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire().size(0.6f, 1.8f)).build("ninja")
 						.setRegistryName("ninja");
 		elements.entities.add(() -> entity);
-		elements.items.add(() -> new SpawnEggItem(entity, -6684928, -3342388, new Item.Properties().group(ItemGroup.MISC)).setRegistryName("ninja"));
+		elements.items.add(() -> new SpawnEggItem(entity, -1, -13369600, new Item.Properties().group(ItemGroup.MISC)).setRegistryName("ninja"));
 	}
 
 	@Override
@@ -75,7 +75,7 @@ public class NinjaEntity extends NarutoBlockModElements.ModElement {
 			BipedRenderer customRender = new BipedRenderer(renderManager, new BipedModel(0), 0.5f) {
 				@Override
 				public ResourceLocation getEntityTexture(Entity entity) {
-					return new ResourceLocation("naruto_block:textures/zetsu_branco.png");
+					return new ResourceLocation("naruto_block:textures/aaazetsu.png");
 				}
 			};
 			customRender.addLayer(new BipedArmorLayer(customRender, new BipedModel(0.5f), new BipedModel(1)));

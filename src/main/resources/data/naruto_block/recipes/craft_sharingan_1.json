@@ -1,0 +1,39 @@
+{
+  "group": "naruto_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "naruto_block:chakra"
+    },
+    "1": {
+      "item": "naruto_block:chakra"
+    },
+    "2": {
+      "item": "naruto_block:chakra"
+    },
+    "3": {
+      "item": "naruto_block:chakra"
+    },
+    "5": {
+      "item": "naruto_block:chakra"
+    },
+    "6": {
+      "item": "naruto_block:chakra"
+    },
+    "7": {
+      "item": "naruto_block:chakra"
+    },
+    "8": {
+      "item": "naruto_block:chakra"
+    }
+  },
+  "result": {
+    "item": "naruto_block:sharingan_helmet",
+    "count": 1
+  }
+}

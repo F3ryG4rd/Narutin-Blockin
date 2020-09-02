@@ -46,7 +46,7 @@ import net.mcreator.narutoblock.NarutoBlockModElements;
 public class HyuugaEntity extends NarutoBlockModElements.ModElement {
 	public static EntityType entity = null;
 	public HyuugaEntity(NarutoBlockModElements instance) {
-		super(instance, 11);
+		super(instance, 9);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 
